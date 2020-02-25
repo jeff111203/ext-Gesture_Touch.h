@@ -25,6 +25,6 @@
 	},
 	"RSLT": {
 		"menu": [["BACK", "DFGT_EVT_BACK"], ["FORWARD", "DFGT_EVT_FORWARD"], ["RIGHT", "DFGT_EVT_RIGHT"], ["LEFT", "DFGT_EVT_LEFT"],["PULLUP","DFGT_EVT_PULLUP"],["PULLDOWN","DFGT_EVT_PULLDOWN"],["PULLREMOVE","DFGT_EVT_PULLREMOVE"],["TOUCH1","DFGT_EVT_TOUCH1"]],
-		"default_GestureTouchSensoreRSLT": "DFGT_EVT_FORWARD"
+		"default_GestureTouchSensoreRSLT": "FORWARD"
 	} 
 }
