@@ -1,6 +1,7 @@
 
 //% color="#AA278D" iconWidth=50 iconHeight=40
 namespace GestureTouchSensore {
+    //% board="arduino"
     //% block="GestureTouchSensore init [SSR] pin RX[RX] TX[TX]" blockType="command"
     //% SSR.shadow="dropdown" SSR.options="SSR"
     //% RX.shadow="dropdown" RX.options="RX"
